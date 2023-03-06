@@ -2,7 +2,7 @@
 ### Zhanchao Yang
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/realEricYang?style=social)](https://twitter.com/realEricYang)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/zhanchaoyang9776)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zhanchaoyang/)
 
 
