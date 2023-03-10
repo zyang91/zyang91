@@ -14,6 +14,12 @@ Zhanchao is an undergraduate student at [Binghamton University](https://www.bing
 - [Reykjavik University](https://en.ru.is/); Study abroad program, summer 2022; Iceland
 - [East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp); Visiting student, summer 2021; China
 
+## Skills
+-Laboratory (GIS): ArcGIS Pro, WebGIS, QGIS, R, Python
+-Laboratory Techniques (GIS): LiDAR data processing, LiDAR scanner, Raster and Vector geoprocessing, Field data collection (with Field Map and Quick Capture), Remote Sensing, Geospatial analysis, Qualitative analysis with GIS, Demographic GIS
+-Imaging: Drone flight, ArcGIS pro, Shorthand, Canva, iPhone LiDAR scanner with PIX 4D
+-Computer: Windows and Mac OS, Microsoft, HTML
+-Language: Chinese (native), English (Full professional proficiency)
 
 ## Projects
 - [Global study Capstone](https://global-studies.shorthandstories.com/preservation-and-conservation-of-historical-sites/index.html)
