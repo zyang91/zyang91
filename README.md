@@ -28,6 +28,10 @@ Zhanchao is an undergraduate student at [Binghamton University](https://www.bing
 - [Carbon Capture by Enhanced Greenhouse Production](https://thegreenprogram.com/capstone/carbon-capture-by-enhanced-greenhouse-production/)
 - [Case study of the Three Gorges Dam](https://storymaps.arcgis.com/stories/f501e48502b34a9ab884ebb8b27851be)
 
+## Python tool development
+- [geomapdemo](https://pypi.org/project/geomapdemo/) still in progress
+- [geosmapdemo](https://pypi.org/project/geosmapdemo/) still in progress
+
 
 ## Experiences
 
