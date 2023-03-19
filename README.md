@@ -35,8 +35,12 @@ Zhanchao is an undergraduate student at [Binghamton University](https://www.bing
 - [geosmapdemo](https://pypi.org/project/geosmapdemo/) still in progress
 
 
-## Experiences
-
+## Professional membership and certificate
+- [AAG- American Association of Geographers](https://www.aag.org/), undergraduate member since 2021
+- [Cartography and Geographic Information Society](https://cartogis.org/), student member
+- [APA- American Planning Association](https://www.planning.org/), student member, NYU (New York Upstate) chapter
+- [LEED, Green Associate certificate](https://www.usgbc.org/credentials/leed-green-associate)
+- [Smart City Certificate](https://www.credly.com/badges/a0c6186c-31af-434e-8f69-3bf7938560c3/linked_in_profile), Binghamton University
 
 
 ## More about me
