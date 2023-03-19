@@ -11,7 +11,7 @@ Zhanchao is an undergraduate student at [Binghamton University](https://www.bing
 
 
 ## Education
-- Binghamton University, SUNY; Bechelor of Arts, 2020-2024
+- [Binghamton University](https://www.binghamton.edu/), SUNY; Bechelor of Arts, 2020-2024
 - [Reykjavik University](https://en.ru.is/); Study abroad program, summer 2022; Iceland
 - [East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp); Visiting student, summer 2021; China
 
@@ -41,7 +41,7 @@ Zhanchao is an undergraduate student at [Binghamton University](https://www.bing
 - 🌱 I’m currently learning Geography and Environmnetal studies
 - 🤔 I’m looking for great graduate program after finishing my undergraduate course work at Binghamton
 - 💬 Feel free ask me anything that you are curious about
-- 📫 How to reach me: via email zyang91@binghamton.edu; ins
+- 📫 How to reach me: via email zyang91@binghamton.edu;
 - 😄 Pronouns: He/his
 
 ## More information will be updated soon
