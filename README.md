@@ -33,6 +33,7 @@ Zhanchao is an undergraduate student at [Binghamton University](https://www.bing
 ## 🚧  Python tool development
 - [geomapdemo](https://pypi.org/project/geomapdemo/) still in progress
 - [geosmapdemo](https://pypi.org/project/geosmapdemo/) still in progress
+- [geogsbing](https://pypi.org/project/geogsbing/) still in progress
 
 
 ## 🧑‍🔬  Professional membership and certificate
