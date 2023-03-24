@@ -5,6 +5,7 @@
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zhanchaoyang/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/16gO8ljWZ1DXQacI2wCtjuccz3qv8tudt/edit?usp=sharing&ouid=114052745298074964608&rtpof=true&sd=true)
+[![CV Badge](https://img.shields.io/badge/My-portfolio-green)](https://storymaps.arcgis.com/stories/c71825c9a4eb4f868a2612b5fc5a3d5a)
 
 ![](https://media.tenor.com/dY7TcEnLsjYAAAAd/geography-geography-now.gif)
 
@@ -51,4 +52,3 @@ Zhanchao is an undergraduate student at [Binghamton University](https://www.bing
 - 📫 How to reach me: via email zyang91@binghamton.edu;
 - 😄 Pronouns: He/his
 
-## More information will be updated soon
