@@ -14,6 +14,15 @@
 ## 🧑 Introduction
 Zhanchao is an undergraduate student at [Binghamton University](https://www.binghamton.edu/) majoring in [geography](https://www.binghamton.edu/geography/) and minoring in [environmental studies](https://www.binghamton.edu/environmental-studies/) and [global studies](https://www.binghamton.edu/minors/global-studies/index.html) with great GPA. Fluently uses both English and Chinese. Awarded several times with “student dean’s list”. In July 2022, he got the LEED Green Associate certificate. In November 2022, Zhanchao Yang's poster about invasive species has published on University GIS Day and get 1st prize award in undergraduate division and people's choice award. He expected to graduate from Binghamton University in May 2024. 
 
+## 🏆 Award
+Department of Geography and GIS Core Facility Student Poster Competition, Binghamton University
+- First Place - Undergraduate, November 18th, 2022
+- People’s Choice Award (Undergraduate), November 18th, 2022
+
+## 📰 Publication
+- Yang, Z., O'Day, S., McCann, P., & Lu, I. (2022, November 18). Tracking the spread of invasive species in the 
+Binghamton University Natural Preserve. The Open Repository @ Binghamton (The ORB). [https://orb.binghamton.edu/gisday/4/](https://orb.binghamton.edu/gisday/4/)
+
 
 ## 🏫  Education
 - [Binghamton University](https://www.binghamton.edu/), SUNY; Bechelor of Arts, 2020-2024
