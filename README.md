@@ -59,7 +59,7 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 ## More about me
 - 🌱 I’m currently learning Geography and Environmnetal studies
 - 🤔 I’m looking for great graduate program after finishing my undergraduate course work at Binghamton
-- 💬 Feel free ask me anything that you are curious about
+- 💬 Feel free ask me anything
 - 📫 How to reach me: via email zyang91@binghamton.edu;
 - 😄 Pronouns: He/his
 
