@@ -35,8 +35,9 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 
 
 ## 💻  Skills
-- Laboratory (GIS): ArcGIS Pro, WebGIS, QGIS, R, Python
-- Laboratory Techniques (GIS): LiDAR data processing, LiDAR scanner, Raster and Vector geoprocessing, Field data collection (with Field Map and Quick Capture), Remote Sensing, Geospatial analysis, Qualitative analysis with GIS, Demographic GIS
+- Laboratory (GIS): ArcGIS Pro, WebGIS, QGIS, R, Python, ENVI
+- Laboratory Techniques (GIS): LiDAR data processing, Raster and Vector geoprocessing, Field data collection, Remote Sensing, Geospatial analysis, Qualitative analysis with GIS, Demographic GIS
+- Surveying technique: Iphone LiDAR sensor, UAV(drone), GPS/GNSS(Survey Control Point)
 - Imaging: Drone flight, ArcGIS pro, Shorthand, Canva, iPhone LiDAR scanner with PIX 4D
 - Computer: Windows and Mac OS, Microsoft, HTML
 - Language: Chinese (native), English (Full professional proficiency)
@@ -47,6 +48,7 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - [Tracking the Spread of Invasive Species in the Binghamton University Nature Preserve](https://orb.binghamton.edu/gisday/4/)
 - [Carbon Capture by Enhanced Greenhouse Production](https://thegreenprogram.com/capstone/carbon-capture-by-enhanced-greenhouse-production/)
 - [Case study of the Three Gorges Dam](https://storymaps.arcgis.com/stories/f501e48502b34a9ab884ebb8b27851be)
+- City of Binghamton plan addressing climate change (In progress)
 
 
 ## 🚧  Python tool development
