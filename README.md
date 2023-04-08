@@ -72,3 +72,5 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - 📫 How to reach me: via email zyang91@binghamton.edu;
 - 😄 Pronouns: He/his
 
+[![zyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyang91)](https://github.com/anuraghazra/github-readme-stats)
+
