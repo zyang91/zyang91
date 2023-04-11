@@ -16,6 +16,7 @@
 ## 🧑 Introduction
 I am an undergraduate student at [Binghamton University](https://www.binghamton.edu/) majoring in [geography](https://www.binghamton.edu/geography/) and minoring in [environmental studies](https://www.binghamton.edu/environmental-studies/) and [global studies](https://www.binghamton.edu/minors/global-studies/index.html) with great GPA. Fluently uses both English and Chinese. Awarded several times with “student dean’s list”. In July 2022, he got the LEED Green Associate certificate. In November 2022, Zhanchao Yang's poster about invasive species has published on University GIS Day and get 1st prize award in undergraduate division and people's choice award. He expected to graduate from Binghamton University in May 2024. 
 
+_Note: I am currently looking for great graduate program (master or PHD) about urban planning or geography. Feel free to contact me if you have great opportunties! Thank you very much_
 
 ## 🏆 Award
 Department of Geography and GIS Core Facility Student Poster Competition, Binghamton University
