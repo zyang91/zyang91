@@ -1,7 +1,8 @@
-### Hi there 👋 Welcome to My Github Profile
+# Hi there 👋 Welcome to My Github Profile
 ### Zhanchao Yang
 
-_Note: I am currently looking for great graduate program (master or PHD) about urban planning or geography. Feel free to contact me if you have great opportunties! Thank you very much_
+_Note: I am currently looking for great graduate program (master or PHD) about urban planning or geography. Feel free to contact me if you have great opportunties! Thank you very much!_
+
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/realEricYang?style=social)](https://twitter.com/realEricYang)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
