@@ -11,6 +11,7 @@ _Note: I am currently looking for great graduate program (master or PHD) about u
 [![CV Badge](https://img.shields.io/badge/My-Portfolio-green)](https://storymaps.arcgis.com/stories/c71825c9a4eb4f868a2612b5fc5a3d5a)
 [![Website Badge](https://img.shields.io/badge/My-Website-yellow)](https://zhanchaoyang.weebly.com/)
 [![Instgram Badge](https://img.shields.io/badge/My-instagram-brightgreen)](https://www.instagram.com/zhanchao.yang/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
 
 
 
