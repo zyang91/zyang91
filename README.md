@@ -4,7 +4,6 @@
 _Note: I am currently looking for great graduate program (master or PHD) about urban planning or geography. Feel free to contact me if you have great opportunties! Thank you very much!_
 
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/realEricYang?style=social)](https://twitter.com/realEricYang)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zhanchaoyang/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/16gO8ljWZ1DXQacI2wCtjuccz3qv8tudt/edit?usp=sharing&ouid=114052745298074964608&rtpof=true&sd=true)
