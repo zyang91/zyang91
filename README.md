@@ -55,12 +55,15 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 
 
 ## 🚧  Python tool development
-- [geomapdemo](https://pypi.org/project/geomapdemo/) version 0.2.0
+- [geomapdemo](https://pypi.org/project/geomapdemo/) 
+ [![image](https://img.shields.io/pypi/v/geomapdemo.svg)](https://pypi.python.org/pypi/geomapdemo)
   1. Interactive Map function has been added
   2. More updated will come soon
  
-- [geosmapdemo](https://pypi.org/project/geosmapdemo/) version 0.0.1
-- [geogsbing](https://pypi.org/project/geogsbing/) version 0.0.1
+- [geosmapdemo](https://pypi.org/project/geosmapdemo/) 
+[![image](https://img.shields.io/pypi/v/geosmapdemo.svg)](https://pypi.python.org/pypi/geosmapdemo)
+- [geogsbing](https://pypi.org/project/geogsbing/) 
+[![image](https://img.shields.io/pypi/v/geogsbing.svg)](https://pypi.python.org/pypi/geogsbing)
 
 
 ## 🧑‍🔬  Professional membership and certificate
