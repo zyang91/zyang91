@@ -1,7 +1,7 @@
 # Hi there 👋 Welcome to My Github Profile
 ### Zhanchao Yang
 
-_Note: I am currently looking for great graduate program (master or PHD) about urban planning or geography. Feel free to contact me if you have great opportunties! Thank you very much!_
+_Note: I am currently looking for great graduate program (master or PHD) about urban planning or geography. Feel free to contact me if you have great opportunties!_
 
 
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
@@ -44,7 +44,6 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - Imaging: Drone flight, ArcGIS pro, Shorthand, Canva, iPhone LiDAR scanner with PIX 4D
 - Computer: Windows and Mac OS, Microsoft, HTML
 - Language: Chinese (native), English (Full professional proficiency)
-
 
 ## ✍️  Projects
 - [Global study Capstone](https://global-studies.shorthandstories.com/preservation-and-conservation-of-historical-sites/index.html)
