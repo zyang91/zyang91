@@ -51,6 +51,7 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - [Carbon Capture by Enhanced Greenhouse Production](https://thegreenprogram.com/capstone/carbon-capture-by-enhanced-greenhouse-production/)
 - [Case study of the Three Gorges Dam](https://storymaps.arcgis.com/stories/f501e48502b34a9ab884ebb8b27851be)
 - [City of Binghamton plan addressing climate change](https://drive.google.com/file/d/1G7-0j6fwFGeUAVE0701fEpz7gRabEmjX/view?usp=sharing) 
+ [![Slides Badge](https://img.shields.io/badge/Highlighted-slides-yellow)](https://docs.google.com/presentation/d/1EjP3ahTsOEA434_-sj_TbD_UL_2p7OmM8-ywuGTMCMM/edit?usp=sharing)
 
 
 ## 🚧  Python tool development
