@@ -85,6 +85,7 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 
 [![Anurag's GitHub stats](https://github-readme-statistics-indol.vercel.app/api?username=zyang91&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://git-hub-stas.vercel.app/api/cards/most-commit-language?username=zyang91&theme=2077)
+![](http://git-hub-stas.vercel.app/api/cards/repos-per-language?username=zyang91&theme=blueberry)
 ![](http://git-hub-stas.vercel.app/api/cards/profile-details?username=zyang91&theme=2077)
 
 
