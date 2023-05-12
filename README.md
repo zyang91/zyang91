@@ -50,7 +50,7 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - [Tracking the Spread of Invasive Species in the Binghamton University Nature Preserve](https://orb.binghamton.edu/gisday/4/)
 - [Carbon Capture by Enhanced Greenhouse Production](https://thegreenprogram.com/capstone/carbon-capture-by-enhanced-greenhouse-production/)
 - [Case study of the Three Gorges Dam](https://storymaps.arcgis.com/stories/f501e48502b34a9ab884ebb8b27851be)
-- City of Binghamton plan addressing climate change (In progress)
+- [City of Binghamton plan addressing climate change](https://drive.google.com/file/d/1G7-0j6fwFGeUAVE0701fEpz7gRabEmjX/view?usp=sharing) 
 
 
 ## 🚧  Python tool development
