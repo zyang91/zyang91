@@ -34,7 +34,7 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - [Binghamton University](https://www.binghamton.edu/), SUNY; Bechelor of Arts, 2020-2024
 
 
-## Study Abroad opportunties
+## 🏛 Study Abroad opportunties
 - [Reykjavik University](https://en.ru.is/); Study abroad program, summer 2022; Iceland
 - [East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp); Visiting student, summer 2021; China
 
@@ -78,7 +78,7 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - [Smart City Certificate](https://www.credly.com/badges/a0c6186c-31af-434e-8f69-3bf7938560c3/linked_in_profile), Binghamton University
 
 
-## More about me
+## 😃 More about me
 - 🌱 I’m currently learning Geography and Environmnetal studies
 - 🤔 I’m looking for great graduate program after finishing my undergraduate course work at Binghamton
 - 💬 Feel free ask me anything
