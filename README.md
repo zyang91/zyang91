@@ -1,6 +1,8 @@
 # Hi there 👋 Welcome to My Github Profile
 ### Zhanchao Yang
 
+![](images/banner.jpg)
+
 
 [![Linktree Badge](https://img.shields.io/badge/My-LinkTree-yellow)](https://linktr.ee/zhanchaoyang)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
@@ -12,7 +14,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
 
 
-![](images/banner.jpg)
+
 ![](images/geography.gif)
 
 ## 🧑 Introduction
