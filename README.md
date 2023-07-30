@@ -2,7 +2,7 @@
 ### Zhanchao Yang
 
 
-
+[![Linktree Badge](https://img.shields.io/badge/My-LinkTree-yellow)](https://linktr.ee/zhanchaoyang)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zhanchaoyang/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/16gO8ljWZ1DXQacI2wCtjuccz3qv8tudt/edit?usp=sharing&ouid=114052745298074964608&rtpof=true&sd=true)
