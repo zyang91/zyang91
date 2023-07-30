@@ -13,7 +13,7 @@
 
 
 
-![](https://media.tenor.com/dY7TcEnLsjYAAAAd/geography-geography-now.gif)
+![](geography.gif)
 
 ## 🧑 Introduction
 I am an undergraduate student at [Binghamton University](https://www.binghamton.edu/) majoring in [geography](https://www.binghamton.edu/geography/) and minoring in [environmental studies](https://www.binghamton.edu/environmental-studies/) and [global studies](https://www.binghamton.edu/minors/global-studies/index.html) with great GPA. Fluently uses both English and Chinese. Awarded several times with “student dean’s list”. In July 2022, he got the LEED Green Associate certificate. In November 2022, Zhanchao Yang's poster about invasive species has published on University GIS Day and get 1st prize award in undergraduate division and people's choice award. He expected to graduate from Binghamton University in May 2024. 
@@ -74,6 +74,7 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - [AAG- American Association of Geographers](https://www.aag.org/), undergraduate member since 2021
 - [Cartography and Geographic Information Society](https://cartogis.org/), student member
 - [APA- American Planning Association](https://www.planning.org/), student member, NYU (New York Upstate) chapter
+- [Esri Young Professionals Network](https://www.esri.com/en-us/about/events/uc/young-professionals-network), member
 - [LEED, Green Associate certificate](https://www.usgbc.org/credentials/leed-green-associate)
 - [Smart City Certificate](https://www.credly.com/badges/a0c6186c-31af-434e-8f69-3bf7938560c3/linked_in_profile), Binghamton University
 
