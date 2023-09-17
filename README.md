@@ -8,10 +8,11 @@
 [![Linktree Badge](https://img.shields.io/badge/My-LinkTree-yellow)](https://linktr.ee/zhanchaoyang)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zhanchaoyang/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/16gO8ljWZ1DXQacI2wCtjuccz3qv8tudt/edit?usp=sharing&ouid=114052745298074964608&rtpof=true&sd=true)
-[![CV Badge](https://img.shields.io/badge/My-Portfolio-green)](https://storymaps.arcgis.com/collections/4b21436eff7e4ea88b55caa33ea26e3d)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1jhVlacPeQBEOAQgbJVIWGg8hy8OSCHmz/edit?usp=sharing&ouid=110229363190943725572&rtpof=true&sd=true)
+[![SM Badge](https://img.shields.io/badge/My-Portfolio-green)](https://storymaps.arcgis.com/collections/4b21436eff7e4ea88b55caa33ea26e3d)
 [![Website Badge](https://img.shields.io/badge/My-Website-yellow)](https://zhanchaoyang.weebly.com/)
 [![Instgram Badge](https://img.shields.io/badge/My-instagram-brightgreen)](https://www.instagram.com/zhanchao.yang/)
+
 
 
 
@@ -26,6 +27,11 @@ Department of Geography and GIS Core Facility Student Poster Competition, Bingha
 - First Place - Undergraduate, November 18th, 2022
 - People’s Choice Award (Undergraduate), November 18th, 2022
 
+Paul F. Gorman '73 Memorial Scholarship, Binghamton University
+- Awarded annually to a student with a declared major in geography and a GPA of 2.8 or higher, Fall,2023
+
+International Achivement Awards
+- Awarded for international students who excellent in research or participate study abroad programs.  
 
 ## 📰 Publication
 - Yang, Z., O'Day, S., McCann, P., & Lu, I. (2022, November 18). Tracking the spread of invasive species in the 
