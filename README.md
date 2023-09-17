@@ -4,7 +4,7 @@
 
 ### Zhanchao Yang
 
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzyang91%2Fzyang91%2Ftree%2Fmain&countColor=%232ccce4)
 [![Linktree Badge](https://img.shields.io/badge/My-LinkTree-yellow)](https://linktr.ee/zhanchaoyang)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zhanchaoyang/)
@@ -12,7 +12,7 @@
 [![CV Badge](https://img.shields.io/badge/My-Portfolio-green)](https://storymaps.arcgis.com/collections/4b21436eff7e4ea88b55caa33ea26e3d)
 [![Website Badge](https://img.shields.io/badge/My-Website-yellow)](https://zhanchaoyang.weebly.com/)
 [![Instgram Badge](https://img.shields.io/badge/My-instagram-brightgreen)](https://www.instagram.com/zhanchao.yang/)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzyang91%2Fzyang91%2Ftree%2Fmain&countColor=%232ccce4)
+
 
 
 ![](images/geography.gif)
