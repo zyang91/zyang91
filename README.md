@@ -12,7 +12,7 @@
 [![CV Badge](https://img.shields.io/badge/My-Portfolio-green)](https://storymaps.arcgis.com/collections/4b21436eff7e4ea88b55caa33ea26e3d)
 [![Website Badge](https://img.shields.io/badge/My-Website-yellow)](https://zhanchaoyang.weebly.com/)
 [![Instgram Badge](https://img.shields.io/badge/My-instagram-brightgreen)](https://www.instagram.com/zhanchao.yang/)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
+
 
 
 
