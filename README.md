@@ -19,7 +19,7 @@
 ![](images/geography.gif)
 
 ## 🧑 Introduction
-I am an undergraduate student at [Binghamton University](https://www.binghamton.edu/) majoring in [geography](https://www.binghamton.edu/geography/) and minoring in [environmental studies](https://www.binghamton.edu/environmental-studies/) and [global studies](https://www.binghamton.edu/minors/global-studies/index.html) with great GPA. Fluently uses both English and Chinese. Awarded several times with “student dean’s list”. In July 2022, he got the LEED Green Associate certificate. In November 2022, Zhanchao Yang's poster about invasive species has published on University GIS Day and get 1st prize award in undergraduate division and people's choice award. He expected to graduate from Binghamton University in May 2024. 
+I am an undergraduate student at [Binghamton University](https://www.binghamton.edu/) majoring in [geography](https://www.binghamton.edu/geography/) and minoring in [environmental studies](https://www.binghamton.edu/environmental-studies/) and [global studies](https://www.binghamton.edu/minors/global-studies/index.html) with great GPA. In November 2022, Zhanchao Yang's poster about invasive species has published on University GIS Day and get 1st prize award in undergraduate division and people's choice award. He expected to graduate from Binghamton University in May 2024. 
 
 
 ## 🏆 Award
@@ -48,11 +48,10 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 
 
 ## 💻  Skills
-- Laboratory (GIS): ArcGIS Pro, WebGIS, QGIS, R, Python, ENVI
+- Laboratory (GIS): ArcGIS Pro, WebGIS, QGIS, ENVI, PIX4D bundle
 - Laboratory Techniques (GIS): LiDAR data processing, Raster and Vector geoprocessing, Field data collection, Remote Sensing, Geospatial analysis, Qualitative analysis with GIS, Demographic GIS
-- Surveying technique: Iphone LiDAR sensor, UAV(drone), GPS/GNSS(Survey Control Point)
-- Imaging: Drone flight, ArcGIS pro, Shorthand, Canva, iPhone LiDAR scanner with PIX 4D
-- Computer: Windows and Mac OS, Microsoft, HTML
+- Surveying technique: Iphone LiDAR sensor, UAV(drone), GPS/GNSS(Survey Control Point), PIX4D
+- Computer: Windows and Mac OS, Microsoft, HTML, Python, R (Rarely use)
 - Language: Chinese (native), English (Full professional proficiency)
 
 
