@@ -33,7 +33,8 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 International Achivement Awards
 - Awarded for international students who excellent in research or participate study abroad programs.  
 
-## 📰 Publication
+## 📰 Publication & Conference proceeding
+- Yang.Z.*, and Newberry.J.  2023.  Accessibility or Environmental Conservation? Evaluating relationship between Environmental Protection and Hiking Trails Accessibility via LiDAR & UAV.  Applied Geography Conference, AGX 2023: Student Poster Competition, Pittsburgh, PA, Oct. 25-28, 2023.
 - Yang, Z., O'Day, S., McCann, P., & Lu, I. (2022, November 18). Tracking the spread of invasive species in the 
 Binghamton University Natural Preserve. The Open Repository @ Binghamton (The ORB). [https://orb.binghamton.edu/gisday/4/](https://orb.binghamton.edu/gisday/4/)
 
