@@ -19,7 +19,7 @@
 ![](images/geography.gif)
 
 ## 🧑 Introduction
-I am an undergraduate student at [Binghamton University](https://www.binghamton.edu/) majoring in [geography](https://www.binghamton.edu/geography/) and minoring in [environmental studies](https://www.binghamton.edu/environmental-studies/) and [global studies](https://www.binghamton.edu/minors/global-studies/index.html) with great GPA. In November 2022, Zhanchao Yang's poster about invasive species has published on University GIS Day and get 1st prize award in undergraduate division and people's choice award. He expected to graduate from Binghamton University in May 2024. 
+I am an undergraduate student at [Binghamton University](https://www.binghamton.edu/) majoring in [geography](https://www.binghamton.edu/geography/) and minoring in [environmental studies](https://www.binghamton.edu/environmental-studies/) and [global studies](https://www.binghamton.edu/minors/global-studies/index.html) with great GPA. In November 2022, Zhanchao Yang's poster about invasive species has published on University GIS Day and get 1st prize award in the undergraduate division and the people's choice award. He expected to graduate from Binghamton University in May 2024. 
 
 
 ## 🏆 Award
@@ -28,13 +28,13 @@ Department of Geography and GIS Core Facility Student Poster Competition, Bingha
 - People’s Choice Award (Undergraduate), November 18th, 2022
 
 Paul F. Gorman '73 Memorial Scholarship, Binghamton University
-- Awarded annually to a student with a declared major in geography and a GPA of 2.8 or higher, Fall,2023
+- Awarded annually to a student with a declared major in geography and a GPA of 2.8 or higher, Fall 2023
 
 International Achivement Awards
-- Awarded for international students who excellent in research or participate study abroad programs.  
+- Awarded for international students who are excellent in research or participate in study abroad programs.  
 
 ## 📰 Publication & Conference proceeding
-- Yang.Z.*, and Newberry.J.  2023.  Accessibility or Environmental Conservation? Evaluating relationship between Environmental Protection and Hiking Trails Accessibility via LiDAR & UAV.  Applied Geography Conference, AGX 2023: Student Poster Competition, Pittsburgh, PA, Oct. 25-28, 2023.
+- Yang.Z.*, and Newberry.J.  2023.  Accessibility or Environmental Conservation? Evaluating the relationship between Environmental Protection and Hiking Trails Accessibility via LiDAR & Remote Sening.  Applied Geography Conference, AGX 2023: Student Poster Competition, Pittsburgh, PA, Oct. 25-28, 2023.
 - Yang, Z., O'Day, S., McCann, P., & Lu, I. (2022, November 18). Tracking the spread of invasive species in the 
 Binghamton University Natural Preserve. The Open Repository @ Binghamton (The ORB). [https://orb.binghamton.edu/gisday/4/](https://orb.binghamton.edu/gisday/4/)
 
@@ -43,16 +43,16 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - [Binghamton University](https://www.binghamton.edu/), SUNY; Bechelor of Arts, 2020-2024
 
 
-## 🏛 Study Abroad opportunties
+## 🏛 Study Abroad Opportunities
 - [Reykjavik University](https://en.ru.is/); Study abroad program, summer 2022; Iceland
 - [East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp); Visiting student, summer 2021; China
 
 
 ## 💻  Skills
-- Laboratory (GIS): ArcGIS Pro, WebGIS, QGIS, ENVI, PIX4D bundle
-- Laboratory Techniques (GIS): LiDAR data processing, Raster and Vector geoprocessing, Field data collection, Remote Sensing, Geospatial analysis, Qualitative analysis with GIS, Demographic GIS
+- Laboratory (GIS): ArcGIS Pro(Proficient), ArcGIS Online(Proficient), QGIS(Intermediate), ENVI(Beginner), PIX4D bundle(Intermediate), Drone2map(Proficient)
+- Laboratory Techniques (GIS): LiDAR data processing, Raster and Vector geoprocessing, Field data collection, Remote Sensing, Geospatial analysis, Qualitative analysis with GIS, Cartography
 - Surveying technique: Iphone LiDAR sensor, UAV(drone), GPS/GNSS(Survey Control Point), PIX4D
-- Computer: Windows and Mac OS, Microsoft, HTML, Python, R (Rarely use)
+- Computer: Windows and Mac OS, Microsoft, HTML(Intermediate), Python(Proficient), R (Beginner)
 - Language: Chinese (native), English (Full professional proficiency)
 
 
@@ -69,9 +69,9 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 ## 🚧  Python tool development
 - [geomapdemo](https://pypi.org/project/geomapdemo/) 
  [![image](https://img.shields.io/pypi/v/geomapdemo.svg)](https://pypi.python.org/pypi/geomapdemo)
-  1. Interactive Map function has been added
-  2. Chart modeule using for analysis
-  3. More function adding soon
+  1. The Interactive Map function has been added
+  2. Chart model used for analysis
+  3. More functions will be added soon
  
 - [geosmapdemo](https://pypi.org/project/geosmapdemo/) 
 [![image](https://img.shields.io/pypi/v/geosmapdemo.svg)](https://pypi.python.org/pypi/geosmapdemo)
@@ -80,7 +80,7 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 
 
 ## 🧑‍🔬  Professional membership and certificate
-- [AAG- American Association of Geographers](https://www.aag.org/), undergraduate member since 2021
+- [AAG- American Association of Geographers](https://www.aag.org/), undergraduate Member since 2021
 - [Cartography and Geographic Information Society](https://cartogis.org/), student member
 - [APA- American Planning Association](https://www.planning.org/), student member, NYU (New York Upstate) chapter
 - [YPN- Esri Young Professionals Network](https://www.esri.com/en-us/about/ypn/overview), member
@@ -89,10 +89,10 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 
 
 ## 😃 More about me
-- 🌱 I’m currently learning Geography and Environmnetal studies
-- 🤔 I’m looking for great graduate program after finishing my undergraduate course work at Binghamton
-- 💬 Feel free ask me anything
-- 📫 How to reach me: via email zyang91@binghamton.edu;
+- 🌱 I’m currently learning Geography, Urban planning, and environmental studies
+- 🤔 I’m looking for a great graduate program after finishing my undergraduate coursework at Binghamton
+- 💬 Feel free to ask me anything
+- 📫 How to reach me: via email at zyang91@binghamton.edu;
 - 😄 Pronouns: He/his
 
 
