@@ -32,6 +32,9 @@ Department of Geography and GIS Core Facility Student Poster Competition, Bingha
 Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 - Awarded annually to a student with a declared major in geography and a GPA of 2.8 or higher, Fall 2023
 
+Undergraduate Research Award
+
+
 International Achivement Awards
 - Awarded for international students who are excellent in research or participate in study abroad programs.  
 
