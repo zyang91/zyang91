@@ -25,8 +25,8 @@ Zhanchao is an undergraduate student at [Binghamton University](https://www.bing
 
 
 ## 🏆 Award
-Department of Geography and GIS Core Facility Student Poster Competition, Binghamton University
-- First Place - Undergraduate * 2 , November 18th, 2022, November 17th, 2023
+[Department of Geography](https://www.binghamton.edu/geography/index.html) and [GIS & Remote Sensing Core Facility](https://www.binghamton.edu/geography/gis/) Student Poster Competition, Binghamton University
+- [First Place - Undergraduate * 2](https://giscore.binghamton.edu/gisday/posters.html) , November 18th, 2022, November 17th, 2023
 - People’s Choice Award (Undergraduate), November 18th, 2022
 
 Paul F. Gorman '73 Memorial Scholarship, Binghamton University
