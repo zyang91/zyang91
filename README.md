@@ -8,7 +8,7 @@
 [![Linktree Badge](https://img.shields.io/badge/My-LinkTree-yellow)](https://linktr.ee/zhanchaoyang)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zhanchaoyang/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1jhVlacPeQBEOAQgbJVIWGg8hy8OSCHmz/edit?usp=sharing&ouid=110229363190943725572&rtpof=true&sd=true)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/e/2PACX-1vQDIB5fN8rNy-VNDqYIVI27Geuu_yMZIc4uhssb9fmNvlltOf_VSkDO1Pq2z2nJnw/pub)
 [![SM Badge](https://img.shields.io/badge/My-Portfolio-green)](https://storymaps.arcgis.com/collections/4b21436eff7e4ea88b55caa33ea26e3d)
 [![Website Badge](https://img.shields.io/badge/My-Website-yellow)](https://zhanchaoyang.weebly.com/)
 [![Instgram Badge](https://img.shields.io/badge/My-instagram-brightgreen)](https://www.instagram.com/zhanchao.yang/)
