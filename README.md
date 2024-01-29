@@ -95,20 +95,9 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - [Smart City Certificate](https://www.credly.com/badges/a0c6186c-31af-434e-8f69-3bf7938560c3/linked_in_profile), Binghamton University
 
 
-## 😃 More about me
-- 🌱 I’m currently learning Geography, Urban planning, and environmental studies
-- 🤔 I’m looking for a great graduate program after finishing my undergraduate coursework at Binghamton
-- 💬 Feel free to ask me anything
-- 📫 How to reach me: via email at zyang91@binghamton.edu;
-- 😄 Pronouns: He/his
-
-
 [![Anurag's GitHub stats](https://github-readme-statistics-indol.vercel.app/api?username=zyang91&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://git-hub-stas.vercel.app/api/cards/most-commit-language?username=zyang91&theme=2077)
 ![](http://git-hub-stas.vercel.app/api/cards/repos-per-language?username=zyang91&theme=blueberry)
 ![](http://git-hub-stas.vercel.app/api/cards/productive-time?username=zyang91&theme=merko&utcOffset=8)
 ![](http://git-hub-stas.vercel.app/api/cards/profile-details?username=zyang91&theme=2077)
 
-
-
-![](images/label.png)
