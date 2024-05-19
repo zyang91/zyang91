@@ -21,7 +21,7 @@
 
 
 ## 🧑 Introduction
-Zhanchao is an undergraduate student at [Binghamton University](https://www.binghamton.edu/) majoring in [geography](https://www.binghamton.edu/geography/) and minoring in [environmental studies](https://www.binghamton.edu/environmental-studies/) and [global studies](https://www.binghamton.edu/minors/global-studies/index.html) with great GPA. In November 2022, Zhanchao Yang's poster about invasive species has published on University GIS Day and get 1st prize award in the undergraduate division and the people's choice award. He expected to graduate from Binghamton University in May 2024. 
+Zhanchao is an incoming master of urban planning student at the University of Pennsylvania Witzman School of Design. He graduated from [Binghamton University- SUNY](https://www.binghamton.edu/) in May 2024. In March 2024, Zhanchao was selected as a recipient of the 2024 SUNY Chancellor Awards for Student Excellence (CASE), the highest honor for SUNY students who successfully integrate SUNY excellence into student life, including scholarship, research development, leadership, and community services.
 
 
 ## 🏆 Award
