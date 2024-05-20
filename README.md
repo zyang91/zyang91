@@ -39,15 +39,17 @@ International Achivement Awards
 - Awarded for international students who are excellent in research or participate in study abroad programs.  
 
 ## 📰 Publication & Conference proceeding
-- Yang, Z. (2023, November 17). Accessibility or environmental conservation? evaluating the relationship between environmental protection and Hiking Trails Accessibility via Lidar &amp; Remote Sensing.
+- Yang, Z. (2023, November 17). Accessibility or environmental conservation? Evaluating the relationship between environmental protection and Hiking Trails Accessibility via Lidar & Remote Sensing.
   The Open Repository @ Binghamton (The ORB). https://orb.binghamton.edu/gisday/5 
-- Yang.Z.*, and Newberry.J.  2023.  Accessibility or Environmental Conservation? Evaluating the relationship between Environmental Protection and Hiking Trails Accessibility via LiDAR & Remote Sening.  Applied Geography Conference, AGX 2023: Student Poster Competition, Pittsburgh, PA, Oct. 25-28, 2023.
+- Yang.Z.*, and Newberry.J.  2023.  Accessibility or Environmental Conservation? Evaluating the relationship between Environmental Protection and Hiking Trails Accessibility via LiDAR & Remote Sensing.  Applied Geography Conference, AGX 2023: Student Poster Competition, Pittsburgh, PA, Oct. 25-28, 2023.
 - Yang, Z., O'Day, S., McCann, P., & Lu, I. (2022, November 18). Tracking the spread of invasive species in the 
 Binghamton University Natural Preserve. The Open Repository @ Binghamton (The ORB). [https://orb.binghamton.edu/gisday/4/](https://orb.binghamton.edu/gisday/4/)
 
 
 ## 🏫  Education
+- [University of Pennsyvania](https://www.upenn.edu/); Master of Arts, City and Regional planning 2024-2026(Expected)
 - [Binghamton University](https://www.binghamton.edu/), SUNY; Bechelor of Arts, 2020-2024
+  
 
 
 ## 🏛 Study Abroad Opportunities
