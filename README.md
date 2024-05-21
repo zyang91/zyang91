@@ -101,6 +101,6 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 - [Smart City Certificate](https://www.credly.com/badges/a0c6186c-31af-434e-8f69-3bf7938560c3/linked_in_profile), Binghamton University
 
 
-[![ GitHub stats](https://github-readme-statistics-indol.vercel.app/api?username=zyang91&theme=radical)
+[ GitHub stats](https://github-readme-statistics-indol.vercel.app/api?username=zyang91&theme=radical)
 
 
