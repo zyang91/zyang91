@@ -4,7 +4,7 @@
 
 ### Zhanchao Yang
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzyang91%2Fzyang91%2Ftree%2Fmain&countColor=%232ccce4)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
 [![Linktree Badge](https://img.shields.io/badge/My-LinkTree-yellow)](https://linktr.ee/zhanchaoyang)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zhanchaoyang/)
