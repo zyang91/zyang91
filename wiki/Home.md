@@ -1,19 +1,5 @@
-# Hi there 👋 Welcome to My Github Profile
-
-![](images/banner.jpg)
 
 ### Zhanchao Yang
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
-[![Linktree Badge](https://img.shields.io/badge/My-LinkTree-yellow)](https://linktr.ee/zhanchaoyang)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCujdvX7QpHtjto4YQmoCNxw)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zhanchaoyang/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1MG5FNCz5ggBwnThH1asHrT2QQSvFCiyd/edit?usp=sharing&ouid=114052745298074964608&rtpof=true&sd=true)
-[![SM Badge](https://img.shields.io/badge/My-Portfolio-green)](https://storymaps.arcgis.com/collections/4b21436eff7e4ea88b55caa33ea26e3d)
-[![Website Badge](https://img.shields.io/badge/My-Website-yellow)](https://zhanchaoyang.weebly.com/)
-[![Instgram Badge](https://img.shields.io/badge/My-instagram-brightgreen)](https://www.instagram.com/zhanchao.yang/)
-
-
 
 
 ![](images/geography.gif)
@@ -68,12 +54,3 @@ Undergraduate Research Award
   2. Chart model used for analysis
   3. More functions will be added soon
  
-
-
-
-## Statistics
-
-![ GitHub stats](https://github-readme-statistics-indol.vercel.app/api?username=zyang91&theme=radical)
-![ GitHub stats](https://github-readme-statistics-indol.vercel.app/api/top-langs/?username=zyang91&layout=compact&theme=yeblu)
-
-
