@@ -39,15 +39,6 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 Undergraduate Research Award
 - Funding for Undergraduate honor thesis on Evaluating the accessibility and environmental protection in Nature Preserve
 
-International Achivement Awards
-- Awarded for international students who are excellent in research or participate in study abroad programs.  
-
-## 📰 Publication & Conference proceeding
-- Yang, Z. (2023, November 17). Accessibility or environmental conservation? Evaluating the relationship between environmental protection and Hiking Trails Accessibility via Lidar & Remote Sensing.
-  The Open Repository @ Binghamton (The ORB). https://orb.binghamton.edu/gisday/5 
-- Yang.Z.*, and Newberry.J.  2023.  Accessibility or Environmental Conservation? Evaluating the relationship between Environmental Protection and Hiking Trails Accessibility via LiDAR & Remote Sensing.  Applied Geography Conference, AGX 2023: Student Poster Competition, Pittsburgh, PA, Oct. 25-28, 2023.
-- Yang, Z., O'Day, S., McCann, P., & Lu, I. (2022, November 18). Tracking the spread of invasive species in the 
-Binghamton University Natural Preserve. The Open Repository @ Binghamton (The ORB). [https://orb.binghamton.edu/gisday/4/](https://orb.binghamton.edu/gisday/4/)
 
 
 ## 🏫  Education
@@ -59,13 +50,6 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
 ## 🏛 Study Abroad Opportunities
 - [Reykjavik University](https://en.ru.is/); Study abroad program, summer 2022; Iceland
 - [East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp); Visiting student, summer 2021; China
-
-
-## 💻  Skills
-- Laboratory (GIS): ArcGIS Pro(Proficient), ArcGIS Online(Proficient), QGIS(Intermediate), ENVI(Beginner), PIX4D bundle(Intermediate), Drone2map(Proficient)
-- Surveying technique: Iphone LiDAR sensor, UAV(drone), GPS/GNSS(Survey Control Point), PIX4D
-- Computer: Windows and Mac OS, Microsoft, HTML(Intermediate), Python(Proficient), R (Beginner)
-- Language: Chinese (native), English (Full professional proficiency)
 
 
 ## ✍️  Projects
@@ -84,22 +68,12 @@ Binghamton University Natural Preserve. The Open Repository @ Binghamton (The OR
   2. Chart model used for analysis
   3. More functions will be added soon
  
-- [geosmapdemo](https://pypi.org/project/geosmapdemo/) 
-[![image](https://img.shields.io/pypi/v/geosmapdemo.svg)](https://pypi.python.org/pypi/geosmapdemo)
-- [geogsbing](https://pypi.org/project/geogsbing/) 
-[![image](https://img.shields.io/pypi/v/geogsbing.svg)](https://pypi.python.org/pypi/geogsbing)
 
 
-## 🧑‍🔬  Professional membership and certificate
-- [AAG- American Association of Geographers](https://www.aag.org/), undergraduate Member since 2021
-- [APA- American Planning Association](https://www.planning.org/), student member, NYU (New York Upstate) chapter
-- [YPN- Esri Young Professionals Network](https://www.esri.com/en-us/about/ypn/overview), member
-- [LEED, Green Associate certificate](https://www.usgbc.org/credentials/leed-green-associate)
 
+## Statistics
 
 ![ GitHub stats](https://github-readme-statistics-indol.vercel.app/api?username=zyang91&theme=radical)
-
-
 ![ GitHub stats](https://github-readme-statistics-indol.vercel.app/api/top-langs/?username=zyang91&layout=compact&theme=yeblu)
 
 
