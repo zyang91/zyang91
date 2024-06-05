@@ -1,15 +1,5 @@
-# .github/workflows/deploy-wiki.yml
-name: deploy-wiki
-on:
-  push:
-    branches: "main"
-    paths: wiki/**
-jobs:
-  deploy-wiki:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions4gh/configure-wiki@v1
-      - uses: actions4gh/deploy-wiki@v1
+            - name: wiki-page-creator-action
+  # You may pin to the exact commit or the version.
+  # uses: Decathlon/wiki-page-creator-action@a59c4d6188c049aa2586ff65bc5660f2c136fe6e
+  uses: Decathlon/wiki-page-creator-action@v2.0.0
+          
