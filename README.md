@@ -2,7 +2,7 @@
 
 ![](images/banner.jpg)
 
-### Zhanchao Yang
+## Zhanchao Yang
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
 [![Linktree Badge](https://img.shields.io/badge/My-LinkTree-yellow)](https://linktr.ee/zhanchaoyang)
