@@ -25,9 +25,14 @@ Zhanchao is an incoming master of urban planning student at the University of Pe
 
 
 ## 🏆 Award
-2024 SUNY Chancellor Award for Student Excellence, State University of New York
+2024 [SUNY Chancellor Award for Student Excellence](https://system.suny.edu/university-life/student-excellence/), State University of New York
+-  The SUNY Chancellor’s Award for Student Excellence acknowledges students for outstanding achievements, which is the highest honor for student excellence at the State University of New York
+-  Awarded to students who have best demonstrated the integration of SUNY excellence within many aspects of their lives, which must include three of the following areas: academics, leadership, diversity, equity, inclusion and justice, campus involvement or community service, research and development, or the arts. (Annually Awarded to 10 students at SUNY Binghamton)
 
 Presidents Award for Undergraduate Award for Student Excellence (Honorable mentioned), Binghamton University
+- Awarded to students who have enriched the Binghamton University community through a record of accomplishment and leadership in such areas as scholarship, student life, and community life, all of which reflect the University’s purposes and priorities.
+- Students must have a minimum cumulative GPA of 3.25.
+- Six undergraduates will receive the award: three juniors and three seniors, along with two honorable mentioned
 
 [Department of Geography](https://www.binghamton.edu/geography/index.html) and [GIS & Remote Sensing Core Facility](https://www.binghamton.edu/geography/gis/) Student Poster Competition, Binghamton University
 - [First Place - Undergraduate * 2](https://giscore.binghamton.edu/gisday/posters.html) , November 18th, 2022, November 17th, 2023
