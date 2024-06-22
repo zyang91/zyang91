@@ -53,7 +53,7 @@ Undergraduate Research Award
 
 
 ## ✍️  Projects
-- [Accessibility or Environmental Conservation? Evaluating relationship between Environmental Protection and Hiking Trails Accessibility via LiDAR & UAV](https://docs.google.com/presentation/d/1SJTRburl9Ujh2TOcqXFvtMTm4Kr41Q9P/edit?usp=sharing&ouid=116076271203645501309&rtpof=true&sd=true)
+- [Accessibility or Environmental Conservation? Evaluating the relationship between Environmental Protection and Hiking Trails Accessibility via LiDAR & UAV](https://orb.binghamton.edu/undergrad_honors_theses/40/)
 - [Global study Capstone](https://global-studies.shorthandstories.com/preservation-and-conservation-of-historical-sites/index.html)
 - [Tracking the Spread of Invasive Species in the Binghamton University Nature Preserve](https://orb.binghamton.edu/gisday/4/)
 - [Carbon Capture by Enhanced Greenhouse Production](https://thegreenprogram.com/capstone/carbon-capture-by-enhanced-greenhouse-production/)
