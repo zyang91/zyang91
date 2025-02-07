@@ -50,21 +50,6 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 - [Reykjavik University](https://en.ru.is/); Study abroad program, summer 2022; Iceland
 
 
-## ✍️  Projects
-- [Accessibility or Environmental Conservation? Evaluating the relationship between Environmental Protection and Hiking Trails Accessibility via LiDAR & UAV](https://orb.binghamton.edu/undergrad_honors_theses/40/)
-- [Global study Capstone](https://global-studies.shorthandstories.com/preservation-and-conservation-of-historical-sites/index.html)
-- [Tracking the Spread of Invasive Species in the Binghamton University Nature Preserve](https://orb.binghamton.edu/gisday/4/)
-- [Carbon Capture by Enhanced Greenhouse Production](https://thegreenprogram.com/capstone/carbon-capture-by-enhanced-greenhouse-production/)
-
-
-
-## 🚧  Python tool development
-- [geomapdemo](https://pypi.org/project/geomapdemo/) 
- [![image](https://img.shields.io/pypi/v/geomapdemo.svg)](https://pypi.python.org/pypi/geomapdemo)
-  1. The Interactive Map function has been added
-  2. Chart model used for analysis
-  3. More functions will be added soon
- 
 
 
 ## Statistics
