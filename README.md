@@ -43,7 +43,7 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 ## 🏫  Education
 - [University of Pennsylvania](https://www.upenn.edu/); Master of City and Regional Planning (MCP) 2024-2026(Expected)
 - [Binghamton University](https://www.binghamton.edu/), SUNY; Bechelor of Arts, 2020-2024
-  
+
 
 ## 🏛 Study Abroad Opportunities
 - [Reykjavik University](https://en.ru.is/); Study abroad program, summer 2022; Iceland
