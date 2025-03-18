@@ -20,7 +20,7 @@
 
 
 ## 🧑 Introduction
-Zhanchao is a dual degree master's student - Master of City Planning (MCP) and Master of Urban Spatial Analytics (MUSA)- and a graduate research assistant at the University of Pennsylvania School of Design. He graduated from [Binghamton University- SUNY](https://www.binghamton.edu/) in May 2024. In March 2024, Zhanchao was selected as a recipient of the 2024 SUNY Chancellor Awards for Student Excellence (CASE), the highest honor for SUNY students who successfully integrate SUNY excellence into student life, including scholarship, research development, leadership, and community services. Zhanchao is committed as a lifelong learner and dedicated researcher for urban planning and geography!
+Zhanchao is a dual degree master's student, Master of City Planning (MCP) and Master of Urban Spatial Analytics (MUSA), and a graduate research assistant at the University of Pennsylvania School of Design. He graduated from [Binghamton University- SUNY](https://www.binghamton.edu/) in May 2024. In March 2024, Zhanchao was selected as a recipient of the 2024 SUNY Chancellor Awards for Student Excellence (CASE), the highest honor for SUNY students who successfully integrate SUNY excellence into student life, including scholarship, research development, leadership, and community services. Zhanchao is committed as a lifelong learner and dedicated researcher for urban planning and geography!
 
 
 ## 🏆 Award
