@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to My Github Profile
+# Welcome to My Github Profile
 
 ![](images/banner.jpg)
 
