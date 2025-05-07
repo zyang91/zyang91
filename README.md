@@ -50,7 +50,11 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 - [Reykjavik University](https://en.ru.is/); Study abroad program, summer 2022; Iceland
 
 
+## Hosted Organization on GitHub
 
+- Geography and Planning: focused on geography and planning coding resources
+- Opengeos.org: Pending development
+- MUSA-Zhanchao: My course-related work at Master of Urban Spatial Analytics program, University of Pennsylvania (co-hosted by my team, if cooperated in class)
 
 ## Statistics
 
