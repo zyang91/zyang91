@@ -43,7 +43,7 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 ## 🏫  Education
 - [University of Pennsylvania](https://www.design.upenn.edu/city-regional-planning); Master of City and Regional Planning (MCP) 2024-2026(Expected)
 - [University of Pennsylvania](https://www.design.upenn.edu/urban-spatial-analytics); Master of Urban Spatial Analytics (MUSA) 2024-2026(Expected)
-- [Binghamton University](https://www.binghamton.edu/), SUNY; Bechelor of Arts, Geography and GIS, 2020-2024
+- [Binghamton University](https://www.binghamton.edu/), SUNY; Bachelor of Arts, Geography and GIS, 2020-2024
 
 
 ## 🏛 Study Abroad Opportunities
@@ -52,9 +52,9 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 
 ## Hosted Organization on GitHub
 
-- Geography and Planning: focused on geography and planning coding resources
-- Opengeos.org: Pending development
-- MUSA-Zhanchao: My course-related work at Master of Urban Spatial Analytics program, University of Pennsylvania (co-hosted by my team, if cooperated in class)
+- [Geography and Planning](https://github.com/Geography-and-Planning): focused on geography and planning coding resources
+- [Opengeos.org](https://github.com/Opengeos-org): Pending development
+- [MUSA-Zhanchao](https://github.com/MUSA-Zhanchao): My course-related work at the Master of Urban Spatial Analytics program, University of Pennsylvania (co-hosted by my team, if cooperated in class)
 
 ## Statistics
 
