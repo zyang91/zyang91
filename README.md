@@ -64,3 +64,4 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 ![ GitHub stats](https://github-readme-statistics-indol.vercel.app/api/top-langs/?username=zyang91&theme=yeblu)
 
 
+![](http://git-hub-stas.vercel.app/api/cards/profile-details?username=zyang91&theme=default)
