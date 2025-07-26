@@ -58,7 +58,7 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 
 ## Statistics
 
-![Zhanchao's GitHub stats](https://read-stats.vercel.app/api?username=zyang91&show_icons=true&theme=radical)
+![Zhanchao's GitHub stats](https://read-stats.vercel.app/api?username=zyang91&show_icons=true&theme=radical&rank_icon=github)
 
 ![Top Langs](https://read-stats.vercel.app/api/top-langs/?username=zyang91&theme=radical)
 
