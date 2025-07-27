@@ -27,23 +27,22 @@ Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planni
 My research interests involve leveraging advanced geospatial technologies to support a city and regional planning framework, as well as the smart cities initiative, particularly in the field of transportation. I focus on integrating spatial data science, transportation systems analysis, and remote sensing to address complex urban challenges. My work aims to inform equitable, data-driven, and future-oriented planning decisions.
 
 ### 🌎 GIS and Spatial Analytics
-- Application of Geographic Information Systems (GIS) in urban and regional planning
-- Spatial modeling of human mobility and travel behavior
-- Use of open spatial data for decision support and policy analysis
+- Geostatistics and Spatial Analysis
+- Open spatial data for policy analysis
 
 ### 🚎 Transportation Planning and Analytics
-- Multimodal transportation network analysis and planning
-- Travel behavior modeling, survey data analysis, and data mining
-- Interaction between transportation infrastructure and land use
-- Intelligent Transportation Systems (ITS) and smart mobility technologies
-- Planning for active transportation and sustainable urban mobility
-- Equity and accessibility analysis in transportation planning
+- Multimodal transportation
+- Travel behavior modeling and data mining
+- Transportation infrastructure and land use
+- Intelligent Transportation Systems (ITS) and smart mobility
+- Active transportation and sustainable urban mobility
+- Equity and accessibility transportation 
 
 ### 🌆 Remote Sensing and Raster Analytics
 - Land cover classification and change detection
 - Machine learning and GeoAI for image classification and feature extraction
 - Spatial-temporal analysis
-- UAV and high-resolution satellite imagery modeling and analysis
+- UAV and high-resolution satellite imagery modeling and digital twin
 
 ## 🏆 Award
 2024 [SUNY Chancellor Award for Student Excellence](https://system.suny.edu/university-life/student-excellence/), State University of New York
