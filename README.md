@@ -3,7 +3,7 @@
 ![](images/banner.jpg)
 
 ## Zhanchao Yang
-**I am seeking PhD or other research opportunities in geography (GIS), urban planning, and transportation after graduating from the University of Pennsylvania in 2026. Any opportunities would be greatly appreciated.**
+**I am seeking a PhD or other research opportunities in geography (GIS), urban planning, and transportation after graduating from the University of Pennsylvania in 2026. Any opportunities would be greatly appreciated.**
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
