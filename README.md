@@ -20,8 +20,30 @@
 ![](images/geography.gif)
 
 ## 🧑 Introduction
-Zhanchao is a dual degree master's student, Master of City Planning (MCP) and Master of Urban Spatial Analytics (MUSA), and a graduate research assistant at the University of Pennsylvania School of Design. He graduated from [Binghamton University- SUNY](https://www.binghamton.edu/) in May 2024. In March 2024, Zhanchao was selected as a recipient of the 2024 SUNY Chancellor Awards for Student Excellence (CASE), the highest honor for SUNY students who successfully integrate SUNY excellence into student life, including scholarship, research development, leadership, and community services. Zhanchao is committed to lifelong learning and is a dedicated researcher in urban planning and geography!
+Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planning (MCP) and a Master of Urban Spatial Analytics (MUSA) at the University of Pennsylvania School of Design. He also works as a graduate research assistant in transportation. His academic and research journey is driven by a strong commitment to advancing transportation planning and spatial analysis through cutting-edge geospatial technologies and data-driven approaches. With a deep interest in how cities function, Zhanchao focuses on integrating Geographic Information Systems (GIS), remote sensing, and urban informatics techniques to address real-world problems in understanding travel behavior, smart mobility, and intelligent transportation systems. His work supports more equitable, efficient, and sustainable urban infrastructure. Zhanchao earned his bachelor's degree from Binghamton University, SUNY. In recognition of his academic excellence, research leadership, and civic engagement, he was honored with the 2024 SUNY Chancellor's Award for Student Excellence (CASE)—the highest recognition for SUNY students.
 
+## 🕵️‍♂️  Research Interests
+
+My research interests involve leveraging advanced geospatial technologies to support a city and regional planning framework, as well as the smart cities initiative, particularly in the field of transportation. I focus on integrating spatial data science, transportation systems analysis, and remote sensing to address complex urban challenges. My work aims to inform equitable, data-driven, and future-oriented planning decisions.
+
+### 🌎 GIS and Spatial Analytics
+- Application of Geographic Information Systems (GIS) in urban and regional planning
+- Spatial modeling of human mobility and travel behavior
+- Use of open spatial data for decision support and policy analysis
+
+### 🚎 Transportation Planning and Analytics
+- Multimodal transportation network analysis and planning
+- Travel behavior modeling, survey data analysis, and data mining
+- Interaction between transportation infrastructure and land use
+- Intelligent Transportation Systems (ITS) and smart mobility technologies
+- Planning for active transportation and sustainable urban mobility
+- Equity and accessibility analysis in transportation planning
+
+### 🌆 Remote Sensing and Raster Analytics
+- Land cover classification and change detection
+- Machine learning and GeoAI for image classification and feature extraction
+- Spatial-temporal analysis
+- UAV and high-resolution satellite imagery modeling and analysis
 
 ## 🏆 Award
 2024 [SUNY Chancellor Award for Student Excellence](https://system.suny.edu/university-life/student-excellence/), State University of New York
@@ -46,17 +68,13 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 - [Binghamton University](https://www.binghamton.edu/), SUNY; Bachelor of Arts, Geography and GIS, 2020-2024
 
 
-## 🏛 Study Abroad
-- [Reykjavik University](https://en.ru.is/); Study abroad program, summer 2022; Iceland
-
-
-## Hosted Organization on GitHub
+## 🏰 Hosted Organization on GitHub
 
 - [Geography and Planning](https://github.com/Geography-and-Planning): focused on geography and planning coding resources
 - [Opengeos.org](https://github.com/Opengeos-org): Pending development
 - [MUSA-Zhanchao](https://github.com/MUSA-Zhanchao): My course-related work at the Master of Urban Spatial Analytics program, University of Pennsylvania (co-hosted by my team, if cooperated in class)
 
-## Statistics
+## 📐 Statistics
 
 ![Zhanchao's GitHub stats](https://read-stats.vercel.app/api?username=zyang91&show_icons=true&theme=radical&rank_icon=github)
 
