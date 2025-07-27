@@ -39,7 +39,7 @@ My research interests involve leveraging advanced geospatial technologies to sup
 - Planning for active transportation and sustainable urban mobility
 - Equity and accessibility analysis in transportation planning
 
-### 🌆 Remote sensing and Raster Analytics
+### 🌆 Remote Sensing and Raster Analytics
 - Land cover classification and change detection
 - Machine learning and GeoAI for image classification and feature extraction
 - Spatial-temporal analysis
