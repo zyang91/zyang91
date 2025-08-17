@@ -3,7 +3,6 @@
 ![](images/banner.jpg)
 
 ## Zhanchao Yang
-**I am seeking a PhD or other research opportunities in geography (GIS), urban planning, and transportation after graduating from the University of Pennsylvania in 2026. Any opportunities would be greatly appreciated.**
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
@@ -35,13 +34,9 @@ My research interests involve leveraging advanced geospatial technologies to sup
 - Transportation infrastructure and land use
 - Intelligent Transportation Systems (ITS) and smart mobility
 - Active transportation and sustainable urban mobility
-- Equity and accessibility transportation
+- Equity and accessible transportation
+- GeoAI and remote sensing for urban planning
 
-### 🌆 Remote Sensing and Raster Analytics
-- Land cover classification and change detection
-- Machine learning and GeoAI for image classification and feature extraction
-- Spatial-temporal analysis
-- UAV and high-resolution satellite imagery modeling and digital twin
 
 ## 🏆 Award
 2024 [SUNY Chancellor Award for Student Excellence](https://system.suny.edu/university-life/student-excellence/), State University of New York
