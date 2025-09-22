@@ -18,7 +18,7 @@
 ![](images/geography.gif)
 
 ## 🧑 Introduction
-Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planning (MCP) and a Master of Urban Spatial Analytics (MUSA) at the University of Pennsylvania School of Design. He also works as a graduate research assistant in transportation. His academic and research journey is driven by a strong commitment to advancing transportation planning and spatial analysis through cutting-edge geospatial technologies and data-driven approaches. With a deep interest in how cities function, Zhanchao focuses on integrating Geographic Information Systems (GIS), remote sensing, and urban informatics techniques to address real-world problems in understanding travel behavior, smart mobility, and intelligent transportation systems. His work supports more equitable, efficient, and sustainable urban infrastructure. Zhanchao earned his bachelor's degree from Binghamton University, SUNY. In recognition of his academic excellence, research leadership, and civic engagement, he was honored with the 2024 SUNY Chancellor's Award for Student Excellence (CASE)—the highest recognition for SUNY students.
+Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planning (MCP) and a Master of Urban Spatial Analytics (MUSA) at the Weitzman School of Design, University of Pennsylvania . He works as a graduate research fellow and assitant in transportation under Prof. Erick Guerra. With a deep interest in how cities function, Zhanchao focuses on integrating Geographic Information Systems (GIS), remote sensing, and urban informatics techniques to address real-world problems in understanding travel behavior, smart mobility, and intelligent transportation systems. His work supports more equitable, efficient, and sustainable urban infrastructure. Zhanchao earned his bachelor's degree from Binghamton University, SUNY. He was honored with the 2024 SUNY Chancellor's Award for Student Excellence (CASE)—the highest recognition for SUNY students.
 
 ## 🕵️‍♂️  Research Interests
 
@@ -64,7 +64,7 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 
 - [Geography and Planning](https://github.com/Geography-and-Planning): focused on geography and planning coding resources
 - [Opengeos.org](https://github.com/Opengeos-org): Pending development
-- [MUSA-Zhanchao](https://github.com/MUSA-Zhanchao): My course-related work at the Master of Urban Spatial Analytics program, University of Pennsylvania (co-hosted by my team, if cooperated in class)
+- [MUSA-Zhanchao](https://github.com/MUSA-Zhanchao): My course-related and research work at the Master of Urban Spatial Analytics program, University of Pennsylvania (co-hosted by my team, if cooperated in class)
 
 ## 📐 Statistics
 
