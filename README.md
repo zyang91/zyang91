@@ -18,7 +18,7 @@ My research interests involve leveraging advanced geospatial technologies to sup
 ### 🌎 GIS and Spatial Analytics
 - Geostatistics and Spatial Analysis
 - Open spatial data for policy analysis
-- Geovisualization & Cartography (spatial communication)
+- Geovisualization & Cartography 
 
 ### 🚎 Transportation Planning and Analytics
 - Multimodal transportation
