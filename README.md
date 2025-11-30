@@ -10,22 +10,35 @@
 [![Instgram Badge](https://img.shields.io/badge/My-instagram-brightgreen)](https://www.instagram.com/zhanchao.yang/)
 
 ## 🧑 Introduction
-Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planning (MCP) and a Master of Urban Spatial Analytics (MUSA) at the Weitzman School of Design, University of Pennsylvania. He works as a graduate research fellow and assistant in transportation under Prof. Erick Guerra. With a deep interest in how cities function, Zhanchao focuses on integrating Geographic Information Systems (GIS), remote sensing, and urban informatics techniques to address real-world problems in understanding travel behavior, smart mobility, and intelligent transportation systems. His work supports more equitable, efficient, and sustainable urban infrastructure. Zhanchao earned his bachelor's degree from Binghamton University, SUNY. He was honored with the 2024 SUNY Chancellor's Award for Student Excellence (CASE)—the highest recognition for SUNY students.
+Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planning (MCP) and a Master of Urban Spatial Analytics (MUSA) at the Weitzman School of Design, University of Pennsylvania. He works as a graduate research fellow and assistant under Prof. Erick Guerra. With a deep interest in how cities function, Zhanchao focuses on integrating Geographic Information Systems (GIS) and urban informatics techniques to address real-world problems in understanding travel behavior and smart mobility. His work supports more equitable, efficient, and sustainable urban infrastructure. Zhanchao earned his bachelor's degree from Binghamton University, SUNY. He was honored with the 2024 SUNY Chancellor's Award for Student Excellence (CASE)—the highest recognition for SUNY students.
 
 ## 🕵️‍♂️  Research Interests
-My research interests involve leveraging advanced geospatial technologies to support city and regional planning frameworks, as well as the smart cities initiative, particularly in the field of transportation and human mobility. I focus on integrating spatial data science, transportation systems analysis, and remote sensing to address complex urban challenges. My work aims to inform equitable, data-driven, and future-oriented planning decisions.
+My research interests involve leveraging advanced geospatial technologies to support city and regional planning frameworks, as well as the smart cities initiative, particularly in transportation and human mobility. I focus on integrating spatial data science and remote sensing to address complex urban challenges.
 
 ### 🌎 GIS and Spatial Analytics
-- Geostatistics and Spatial Analysis
-- Open spatial data for policy analysis
-- Geovisualization & Cartography 
+- Geostatistics and Spatial Analysis with Machine learning 
+- Geovisualization & Cartography
+- Agent-Based Modeling
 
 ### 🚎 Transportation Planning and Analytics
-- Multimodal transportation
-- Travel behavior modeling and data mining
+- Travel behavior modeling, data mining, and human mobility
 - Intelligent Transportation Systems (ITS) and smart mobility
-- Active transportation and sustainable urban mobility
 - GeoAI and remote sensing for urban planning
+
+## 🧑‍🏫 Teaching Experience
+### Graduate Teaching Assistant (University of Pennsylvania)
+- MUSA 5000: Statistical and Data Mining Methods for Urban Data Analysis (Fall 2025 with **Prof. Eugene Brusilovskiy**)
+  - Graduate-level intro to statistics class with strong focus on traditional statistics (regression), spatial econometrics, and machine learning (unsupervised and supervised learning)
+- MUSA 5080: Public Policy Analytics  (Fall 2025 with **Dr Elizabeth Delmelle**)
+  - Graduate-level R-based class focuses on advanced spatial analysis and data science/machine learning
+- CPLN 5920: Public Policy Analytics (Spring 2026 with **Dr Allison Lassiter**)
+  - Graduate-level class mainly for planners without strong GIS backgrounds
+  - Same class as MUSA 5080
+
+### Undergraduate Teaching Assistant (SUNY Binghamton)
+- EML mentor and teaching assistant (Summer 2023, Fall 2023 & Spring 2024)
+  - Under the Binghamton University English Language Institute and ISSS
+  - Helped incoming and current International students adapt to different cultures and full-English academic environments (in- and outside-classroom)
 
 
 ## 🏆 Award
