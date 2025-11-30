@@ -26,7 +26,7 @@ My research interests involve leveraging advanced geospatial technologies to sup
 - GeoAI and remote sensing for urban planning
 
 ## 🧑‍🏫 Teaching Experience
-### Graduate Teaching Assistant (University of Pennsylvania)
+### 👨‍💼 Graduate Teaching Assistant (University of Pennsylvania)
 - MUSA 5000: Statistical and Data Mining Methods for Urban Data Analysis (Fall 2025 with **Prof. Eugene Brusilovskiy**)
   - Graduate-level intro to statistics class with strong focus on traditional statistics (regression), spatial econometrics, and machine learning (unsupervised and supervised learning)
 - MUSA 5080: Public Policy Analytics  (Fall 2025 with **Dr Elizabeth Delmelle**)
@@ -35,7 +35,7 @@ My research interests involve leveraging advanced geospatial technologies to sup
   - Graduate-level class mainly for planners without strong GIS backgrounds
   - Same class as MUSA 5080
 
-### Undergraduate Teaching Assistant (SUNY Binghamton)
+### 👨‍🎓 Undergraduate Teaching Assistant (SUNY Binghamton)
 - EML mentor and teaching assistant (Summer 2023, Fall 2023 & Spring 2024)
   - Under the Binghamton University English Language Institute and ISSS
   - Helped incoming and current International students adapt to different cultures and full-English academic environments (in- and outside-classroom)
