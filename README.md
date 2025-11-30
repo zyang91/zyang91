@@ -27,11 +27,14 @@ My research interests involve leveraging advanced geospatial technologies to sup
 
 ## 🧑‍🏫 Teaching Experience
 ### 👨‍💼 Graduate Teaching Assistant (University of Pennsylvania)
-- MUSA 5000: Statistical and Data Mining Methods for Urban Data Analysis (Fall 2025 with **Prof. Eugene Brusilovskiy**)
+- MUSA 5000: Statistical and Data Mining Methods for Urban Data Analysis (Fall 2025)
+  - Instructor: **Prof. Eugene Brusilovskiy**, Weitzman School of Design, UPenn & Barnett College of Public Health, Temple University
   - Graduate-level intro to statistics class with strong focus on traditional statistics (regression), spatial econometrics, and machine learning (unsupervised and supervised learning)
-- MUSA 5080: Public Policy Analytics  (Fall 2025 with **Dr Elizabeth Delmelle**)
+- MUSA 5080: Public Policy Analytics  (Fall 2025)
+  - Instructor: **Dr Elizabeth Delmelle**, Associate Professor, Weitzman School of Design, University of Pennsylvania
   - Graduate-level R-based class focuses on advanced spatial analysis and data science/machine learning
-- CPLN 5920: Public Policy Analytics (Spring 2026 with **Dr Allison Lassiter**)
+- CPLN 5920: Public Policy Analytics (Spring 2026)
+  - Instructor: **Dr Allison Lassiter**, Associate Professor, Weitzman School of Design, University of Pennsylvania
   - Graduate-level class mainly for planners without strong GIS backgrounds
   - Same class as MUSA 5080
 
