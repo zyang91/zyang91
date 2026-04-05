@@ -15,15 +15,10 @@ Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planni
 ## 🕵️‍♂️  Research Interests
 My research interests involve leveraging advanced geospatial technologies to support city and regional planning frameworks, as well as the smart cities initiative, particularly in transportation and human mobility. I focus on integrating spatial data science and remote sensing to address complex urban challenges.
 
-### 🌎 GIS and Spatial Analytics
-- Geostatistics and Spatial Analysis with Machine learning 
-- Geovisualization & Cartography
-- Agent-Based Modeling
-
 ### 🚎 Transportation Planning and Analytics
 - Travel behavior modeling, data mining, and human mobility
-- Intelligent Transportation Systems (ITS) and smart mobility
-- GeoAI and remote sensing for urban planning
+- Transportation and land use
+- Transportation and technology
 
 ## 🧑‍🏫 Teaching Experience
 ### 👨‍💼 Graduate Teaching Assistant (University of Pennsylvania)
