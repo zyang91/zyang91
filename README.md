@@ -19,6 +19,7 @@ My research interests involve leveraging advanced geospatial technologies to sup
 - Travel behavior modeling, data mining, and human mobility
 - Transportation and land use
 - Transportation and technology
+- Causal inference and econometrics
 
 ## 🧑‍🏫 Teaching Experience
 ### 👨‍💼 Graduate Teaching Assistant (University of Pennsylvania)
