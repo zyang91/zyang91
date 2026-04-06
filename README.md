@@ -10,15 +10,14 @@
 [![Instgram Badge](https://img.shields.io/badge/My-instagram-brightgreen)](https://www.instagram.com/zhanchao.yang/)
 
 ## 🧑 Introduction
-Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planning (MCP) and a Master of Urban Spatial Analytics (MUSA) at the Weitzman School of Design, University of Pennsylvania. He works as a graduate research fellow and assistant under Prof. Erick Guerra. With a deep interest in how cities function, Zhanchao focuses on integrating Geographic Information Systems (GIS) and urban informatics techniques to address real-world problems in understanding travel behavior and smart mobility. His work supports more equitable, efficient, and sustainable urban infrastructure. Zhanchao earned his bachelor's degree from Binghamton University, SUNY. He was honored with the 2024 SUNY Chancellor's Award for Student Excellence (CASE)—the highest recognition for SUNY students.
+Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planning (MCP) and a Master of Urban Spatial Analytics (MUSA) at the Weitzman School of Design, University of Pennsylvania. He works as a graduate research fellow and assistant under Prof. Erick Guerra. With a deep interest in how cities function, Zhanchao focuses on integrating Geographic Information Systems (GIS) and urban analytics method to address real-world problems in understanding travel behavior and smart mobility. His work supports more equitable, efficient, and sustainable urban infrastructure. Zhanchao earned his bachelor's degree from Binghamton University, SUNY. He was honored with the 2024 SUNY Chancellor's Award for Student Excellence (CASE)—the highest recognition for SUNY students.
 
 ## 🕵️‍♂️  Research Interests
 My research interests involve leveraging advanced geospatial technologies to support city and regional planning frameworks, as well as the smart cities initiative, particularly in transportation and human mobility. I focus on integrating spatial data science and remote sensing to address complex urban challenges.
 
 ### 🚎 Transportation Planning and Analytics
-- Travel behavior modeling, data mining, and human mobility
+- Travel behavior and human mobility
 - Transportation and land use
-- Transportation and technology
 - Causal inference and econometrics
 
 ## 🧑‍🏫 Teaching Experience
