@@ -56,6 +56,7 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 - Awarded annually to a student with a declared major in geography and a GPA of 2.8 or higher, Fall 2023
 
 
+
 ## 🏫  Education
 - [University of Pennsylvania](https://www.design.upenn.edu/city-regional-planning); Master of City and Regional Planning (MCP) 2024-2026(Expected)
 - [University of Pennsylvania](https://www.design.upenn.edu/urban-spatial-analytics); Master of Urban Spatial Analytics (MUSA) 2024-2026(Expected)
