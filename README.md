@@ -3,11 +3,8 @@
 ![](images/banner01.png)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
-[![Linktree Badge](https://img.shields.io/badge/My-LinkTree-yellow)](https://linktr.ee/zhanchaoyang)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-green)](https://www.linkedin.com/in/zhanchaoyang/)
 [![SM Badge](https://img.shields.io/badge/My-Portfolio-purple)](https://storymaps.arcgis.com/collections/4b21436eff7e4ea88b55caa33ea26e3d)
-[![Website Badge](https://img.shields.io/badge/My-Website-red)](https://zhanchaoyang.weebly.com/)
-[![Instgram Badge](https://img.shields.io/badge/My-instagram-brightgreen)](https://www.instagram.com/zhanchao.yang/)
 
 ## 🧑 Introduction
 Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planning (MCP) and a Master of Urban Spatial Analytics (MUSA) at the Weitzman School of Design, University of Pennsylvania. He works as a graduate research fellow and assistant under Prof. Erick Guerra. With a deep interest in how cities function, Zhanchao focuses on integrating Geographic Information Systems (GIS) and urban analytics method to address real-world problems in understanding travel behavior and smart mobility. His work supports more equitable, efficient, and sustainable urban infrastructure. Zhanchao earned his bachelor's degree from Binghamton University, SUNY. He was honored with the 2024 SUNY Chancellor's Award for Student Excellence (CASE)—the highest recognition for SUNY students.
