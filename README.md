@@ -62,8 +62,6 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 
 ## 🏰 Hosted Organization on GitHub
 
-- [Geography and Planning](https://github.com/Geography-and-Planning): focused on geography and planning coding resources
-- [Opengeos.org](https://github.com/Opengeos-org): Pending development
 - [MUSA-Zhanchao](https://github.com/MUSA-Zhanchao): My course-related and research work at the Master of Urban Spatial Analytics program, University of Pennsylvania (co-hosted by my team, if cooperated in class)
 - [UPenn Transport Research](https://github.com/UPenn-Transport-Zhanchao): Penn transportation Research I have been working on.
 
