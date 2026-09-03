@@ -63,5 +63,5 @@ Paul F. Gorman '73 Memorial Scholarship, Binghamton University
 ## 🏰 Hosted Organization on GitHub
 
 - [MUSA-Zhanchao](https://github.com/MUSA-Zhanchao): My course-related and research work at the Master of Urban Spatial Analytics program, University of Pennsylvania (co-hosted by my team, if cooperated in class)
-- [UPenn Transport Research](https://github.com/UPenn-Transport-Zhanchao): Penn transportation Research I have been working on.
+- [Transport Research](https://github.com/Transport-Zhanchao): Penn transportation Research I have been working on.
 
