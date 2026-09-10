@@ -14,9 +14,9 @@ Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planni
 - Travel Behavior
 - Urban Policy
 - Urban & Transportation Economics
-- Accessibility and Mobility
 - Causal Inference
-- Transportation and Land Use Policy 
+  
+For my research project (in progress and finished), please see the full list at [zhanchaoyang.com/pages/research](zhanchaoyang.com/pages/research)
 
 ## 🧑‍🏫 Teaching Experience
 ### 👨‍💼 Graduate Teaching Assistant (University of Pennsylvania)
@@ -30,6 +30,9 @@ Zhanchao Yang is a dual-degree master's student pursuing a Master of City Planni
   - Instructor: **Dr Allison Lassiter**, Associate Professor, Weitzman School of Design, University of Pennsylvania
   - Graduate-level class mainly for planners without strong GIS backgrounds
   - Same class as MUSA 5080
+- MUSA 5500/CPLN 6720: Geospatial Data Science in Python (Fall 2026)
+  - Instructor: **Dr. Xiaojiang Li**, Assistant Professor, Weitzman School of Design, University of Pennsylvania
+  - Graduate-level python-based class focus on spatial analysis and spatial data science 
 
 ### 👨‍🎓 Undergraduate Teaching Assistant (SUNY Binghamton)
 - EML mentor and teaching assistant (Summer 2023, Fall 2023 & Spring 2024)
