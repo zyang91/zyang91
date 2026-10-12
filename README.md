@@ -1,6 +1,6 @@
 # Welcome to Zhanchao GitHub Profile
 
-![](images/banner01.png)
+![Banner-email:zhanchao@upenn.edu](images/banner.png)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zyang91.zyang91)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-green)](https://www.linkedin.com/in/zhanchaoyang/)
